@@ -2,6 +2,8 @@
 
 A React-based Gemini AI chat clone using the Google Gemini API.
 
+# Deployement
+https://gemini-clone-iota-orcin.vercel.app/
 ## Features
 
 - Modern React UI with sidebar and chat interface
